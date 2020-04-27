@@ -1,5 +1,5 @@
 # Webpage-Parsing
 
-Parsing Webpages using PLY(Python Lex Yacc) library
+Parsing Webpages (dblp profiles in this case) using PLY(Python Lex Yacc) library
 
 Written in Python
