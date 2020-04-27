@@ -1,7 +1,5 @@
 
-# Febin John Sam
-# 19CS60R53
-# Assignment 5
+#Copyright: Febin John Sam (fjohnsam96@gmail.com)
 
 ###TASK1
 
