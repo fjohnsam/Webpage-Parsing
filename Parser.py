@@ -10,42 +10,7 @@ import http.client as http
 http.HTTPConnection._http_vsn = 10
 http.HTTPConnection._http_vsn_str = 'HTTP/1.0'
 
-# url = ['https://dblp.org/pers/hd/g/Ganguly:Niloy',
-# 'https://dblp.org/pers/hd/m/Mukherjee_0001:Animesh',
-# 'https://dblp.org/pers/hd/g/Ghosh_0001:Saptarshi',
-# 'https://dblp.org/pers/hd/m/Mitra:Bivas',
-# 'https://dblp.org/pers/hd/c/Chakraborty:Sandip',
-# 'https://dblp.org/pers/hd/t/Talukdar:Partha_P=',
-# 'https://dblp.org/pers/hd/n/Narahari:Y=',
-# 'https://dblp.org/pers/hd/b/Barman:Siddharth',
-# 'https://dblp.org/pers/hd/g/Goyal:Pawan',
-# 'https://dblp.org/pers/hd/d/De:Abir',
-# 'https://dblp.org/pers/hd/s/Singla:Parag',
-# 'https://dblp.org/pers/hd/k/Kumar_0001:Amit',
-# 'https://dblp.org/pers/hd/c/Chakrabarti:Soumen',
-# 'https://dblp.org/pers/hd/s/Sarawagi:Sunita',
-# 'https://dblp.org/pers/hd/d/Dasgupta_0001:Anirban',
-# 'https://dblp.org/pers/hd/r/Ravindran:Balaraman',
-# 'https://dblp.org/pers/hd/d/Dey:Palash',
-# ]
 
-# files =['niloyganguly.html',
-# 'animeshmukherjee.html',
-# 'saptarshighosh.html',
-# 'bivasmitra.html',
-# 'sandipchakraborty.html',
-# 'parthatalukdar.html',
-# 'ynarahari.html',
-# 'siddharthbarman.html',
-# 'pawangoyal.html',
-# 'abirde.html',
-# 'paragsingla.html',
-# 'amitkumar.html',
-# 'soumenchakrabarti.html',
-# 'sunitasarawagi.html',
-# 'anirbandasgupta.html',
-# 'balaramanravindran.html',
-# 'palashdey.html']
 
 ###TASK2
 
